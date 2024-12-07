@@ -5,8 +5,8 @@ and Jupyter Notebooks (Personality Smoking Control Classification.ipynb (1), Per
 We aimed as well to check if characteristics other than personal traits could evolve or not the accuracy of the model.
 
 ## Team Members
-`Ahmad Bassam El Bizri`
-`Mohamad Raslan`
+- `Ahmad Bassam El Bizri`
+- `Mohamad Raslan`
 
 ## Files
  `personality_individual_characteristics.csv`: The original dataset that was sampled.
