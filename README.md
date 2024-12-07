@@ -13,7 +13,7 @@ We aimed as well to check if characteristics other than personal traits could ev
 - `personality_traits.csv`: The manipulated from the original dataset that is used for training and testing the neural network model.
 - `Personality Smoking Control Classification.ipynb`: The Jupyter Notebook that used the dataset to predict and train the model for the test dataset using only the personal traits.
 - `Personality + Characteristics Smoking Control Classification.ipynb`: The Jupyter Notebook that used the dataset to predict and train the model for the test dataset using both personal traits in addition to other characteristics.
- `README.md`: Detailed guide file for the project.
+- `README.md`: Detailed guide file for the project.
 
  ## Download the files
  ```rb 
